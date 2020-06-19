@@ -6,13 +6,13 @@ document.addEventListener("DOMContentLoaded", () => {
     detik = document.getElementById("detik"),
     canvas = document.getElementById("bg"),
     loveemoji = [
-      "🖕🏼",
-      "👊🏾",
-      "💢",
+      "😻",
+      "💞",
+      "💓",
       "💥",
-      "💩",
+      "💤",
       "👻",
-      "🙈",
+      "🌸",
     ];
 
   let waktu = new Date();
